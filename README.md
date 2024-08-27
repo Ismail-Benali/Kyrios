@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/5ed539b2-a0eb-400e-8b9a-b429cfb566b5)
+![KYRIOS](https://github.com/user-attachments/assets/b5feea77-2330-4dcb-adba-7282abf3941b)
 
 # Kyrios: A Modern Systems Programming Language
 
